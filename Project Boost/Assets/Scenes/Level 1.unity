@@ -236,6 +236,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 1787354738912046, guid: cbc7b93fdb627452ba8ad2641f345db2, type: 2}
+      propertyPath: m_TagString
+      value: Fuel
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cbc7b93fdb627452ba8ad2641f345db2, type: 2}
   m_IsPrefabAsset: 0
@@ -403,6 +407,11 @@ Prefab:
     - target: {fileID: 4639200961927078, guid: 6c5e4b3d0cb4240deb2e892a8acd7c68, type: 2}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114396274615714652, guid: 6c5e4b3d0cb4240deb2e892a8acd7c68,
+        type: 2}
+      propertyPath: rcsThrust
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c5e4b3d0cb4240deb2e892a8acd7c68, type: 2}
